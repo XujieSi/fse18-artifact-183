@@ -1,8 +1,6 @@
-We are applying for the reusable and available badges.
+We are applying for the Replicated badge for following reasons:
 
-We believe this artifact is reusable since the input is in a simple format that can be easily produced.
-
-The artifact is under the MIT License and is therefore available. We will soon publicize this tool in a Github repository.
-
-We also include our benchmarks, which may be useful for future work in ILP and Datalog synthesis.
-
+- we released our implementation source code as well as benchmarks for evaluation
+- our tool has an easy interface, which can be reused as an underlying synthesis engine for future application work
+- the benchmarks we collected can also benefit future work in the area of inductive logic programming (ILP) and Datalog synthesis
+- we provide detailed instructions to re-run experiment so that it is starightforward to replicate our results
